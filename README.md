@@ -85,3 +85,50 @@ We focused on **turning data into insights** that help hotel management optimize
 ---
 
 ## 📂 Repository Structure
+Hotel_Rev_AI_Group_1/
+│
+├── powerbi_dashboard/
+│ ├── HotelRevenueDashboard.pbix
+│ ├── Student_Performance_Report.pbix
+│ └── Finance_Dashboard.pbix
+│
+├── datasets/
+│ ├── Hotel_Booking_Analytics_Data.xlsx
+│ ├── StudentPerformanceData.xlsx
+│ └── FinanceData.xlsx
+│
+├── Final Documentation.docx
+└── README.md
+
+---
+
+## 📈 Key Insights
+✅ The highest occupancy and revenue were recorded during **peak vacation months**.  
+✅ **Corporate bookings** showed higher revenue per stay than leisure bookings.  
+✅ **Cancellations** were linked to booking source and time before arrival.  
+✅ Educational and financial dashboards revealed consistent **performance patterns and spending trends**.
+
+---
+
+## 💡 Future Enhancements
+- Add predictive analytics using **Python or Power BI AI visuals**.  
+- Deploy interactive dashboards using **Power BI Service or Streamlit**.  
+- Integrate **real-time data sources (APIs)** for live insights.  
+
+---
+
+## 🏆 Acknowledgements
+Special thanks to **Infosys Springboard** for providing this opportunity to explore data analytics and visualization in a real-world context.  
+Gratitude to our mentors and teammates for their guidance and collaboration. 💫  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
+</p>
+
+<p align="center">
+  <b>“Turning Data into Decisions — One Dashboard at a Time.”</b><br>
+  <i>— Team 1 HotelRevAI </i>
+</p>
+
