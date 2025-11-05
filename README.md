@@ -74,7 +74,7 @@ We focused on **turning data into insights** that help hotel management optimize
 ## 👩‍💻 Team Members – *Data Visualization Team 1*
 | Name | Role | LinkedIn |
 |------|------|-----------|
-| **Shripathi Rao** |  Project Lead & Data set Manager and Presentor | [LinkedIn](https://www.linkedin.com/in/sripathirao-karri-345ab122a) |
+| **Sripathi Rao** |  Project Lead & Data set Manager and Presentor | [LinkedIn](https://www.linkedin.com/in/sripathirao-karri-345ab122a) |
 | **Namita Naik** | Data cleaning, analysing and Dashboard Creator | [LinkedIn](https://www.linkedin.com/in/namita-naik-b15482293) |
 | **Ponn Madhumita** | Report & Documentation  | [LinkedIn]|
 | **Ankush** | DashBoard Creator & presentor |  [LinkedIn]| |
