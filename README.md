@@ -79,6 +79,7 @@ We focused on **turning data into insights** that help hotel management optimize
 | **Ponn Madhumita** | Report & Documentation  | [LinkedIn](https://www.linkedin.com/in/pon-madhumitha-a-140754217)|
 | **Ankush** | DashBoard Creator & presentor |  [LinkedIn]| |
 | **Meenakshi dogiparti** | Reporter & Documentation  | [LinkedIn](https://www.linkedin.com/in/meenakshi-dogiparti/)|
+|**Varsha**|Reporter & Documentation | [LinkedIN](https://linkedin.com/in/varshanatrajan)|
 
 > *Guided under Infosys Springboard Internship (Data Analyst Role)*
 
