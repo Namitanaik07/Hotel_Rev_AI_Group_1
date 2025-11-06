@@ -77,9 +77,10 @@ We focused on **turning data into insights** that help hotel management optimize
 | **Sripathi Rao** |  Project Lead & Data set Manager and Presentor | [LinkedIn](https://www.linkedin.com/in/sripathirao-karri-345ab122a) |
 | **Namita Naik** | Data cleaning, analysing and Dashboard Creator | [LinkedIn](https://www.linkedin.com/in/namita-naik-b15482293) |
 | **Ponn Madhumita** | Report & Documentation  | [LinkedIn](https://www.linkedin.com/in/pon-madhumitha-a-140754217)|
-| **Ankush** | DashBoard Creator & presentor |  [LinkedIn]| |
+| **Ankush** | DashBoard Creator & presentor |  [LinkedIn](https://www.linkedin.com/in/ankush-kumar-singh-04bb78243)| |
 | **Meenakshi dogiparti** | Reporter & Documentation  | [LinkedIn](https://www.linkedin.com/in/meenakshi-dogiparti/)|
 |**Varsha**|Reporter & Documentation | [LinkedIN](https://linkedin.com/in/varshanatrajan)|
+|**Apurva Hipparagi**|Reporter & Documentation | [LinkedIN](https://www.linkedin.com/in/apurva-hippargi-78b236342?)|
 
 > *Guided under Infosys Springboard Internship (Data Analyst Role)*
 
