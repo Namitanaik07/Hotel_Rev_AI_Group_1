@@ -1,4 +1,4 @@
-# 🌍 HotelRevAI — Data Visualization Project 📊  
+# 🌍 HotelRevAI - Data Visualization Project 📊  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Namitanaik07/Hotel_Rev_AI_Group_1?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/Namitanaik07/Hotel_Rev_AI_Group_1?color=yellow)
