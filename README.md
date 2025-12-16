@@ -1,4 +1,4 @@
-# 🌍✨ HotelRevAI — Data Visualization Project 🏨📊  
+# 🌍 HotelRevAI — Data Visualization Project 📊  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Namitanaik07/Hotel_Rev_AI_Group_1?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/Namitanaik07/Hotel_Rev_AI_Group_1?color=yellow)
@@ -6,7 +6,7 @@
 ![Built with](https://img.shields.io/badge/Built%20with-PowerBI%20%7C%20Excel%20%7C%20Python-orange)
 
 
-## 📘 Overview
+## Overview
 **HotelRevAI** is a **data visualization and analytics project** developed as part of the **Infosys Springboard Internship (Data Analyst Role)**.  
 The project aims to analyze **hotel revenue, booking trends, and customer behavior** using advanced data visualization techniques in **Power BI** and **Excel**.  
 
@@ -14,7 +14,7 @@ We focused on **turning data into insights** that help hotel management optimize
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze key hotel performance indicators (KPIs) like revenue, occupancy, and cancellations.  
 - Build **interactive dashboards** for financial, sales, and performance insights.  
 - Identify patterns and trends in customer booking and seasonal demand.  
@@ -59,19 +59,19 @@ We focused on **turning data into insights** that help hotel management optimize
 
 ---
 
-## 🧠 Tools & Technologies Used
+##  Tools & Technologies Used
 | Tool | Purpose |
 |------|----------|
-| 🟨 **Power BI** | Data Visualization & Dashboard Creation |
-| 🟨 **Power Query** | Transform Data |
-| 🧮 **Microsoft Excel** | Data Cleaning & Preprocessing |
-| 🐍 **Python** | Exploratory Data Analysis |
-| 🧾 **MS Word** | Final Documentation |
-| ☁️ **GitHub** | Version Control & Collaboration |
+|  **Power BI** | Data Visualization & Dashboard Creation |
+|  **Power Query** | Transform Data |
+|  **Microsoft Excel** | Data Cleaning & Preprocessing |
+|  **Python** | Exploratory Data Analysis |
+|  **MS Word** | Final Documentation |
+|  **GitHub** | Version Control & Collaboration |
 
 ---
 
-## 👩‍💻 Team Members – *Data Visualization Team 1*
+##  Team Members – *Data Visualization Team 1*
 | Name | Role | LinkedIn |
 |------|------|-----------|
 | **Sripathi Rao** |  Project Lead & Data set Manager and Presentor | [LinkedIn](https://www.linkedin.com/in/sripathirao-karri-345ab122a) |
@@ -86,7 +86,7 @@ We focused on **turning data into insights** that help hotel management optimize
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 ✅ The highest occupancy and revenue were recorded during **peak vacation months**.  
 ✅ **Corporate bookings** showed higher revenue per stay than leisure bookings.  
 ✅ **Cancellations** were linked to booking source and time before arrival.  
@@ -94,16 +94,16 @@ We focused on **turning data into insights** that help hotel management optimize
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 - Add predictive analytics using **Python or Power BI AI visuals**.  
 - Deploy interactive dashboards using **Power BI Service or Streamlit**.  
 - Integrate **real-time data sources (APIs)** for live insights.  
 
 ---
 
-## 🏆 Acknowledgements
+##  Acknowledgements
 Special thanks to **Infosys Springboard** for providing this opportunity to explore data analytics and visualization in a real-world context.  
-Gratitude to our mentors and teammates for their guidance and collaboration. 💫  
+Gratitude to our mentors and teammates for their guidance and collaboration.  
 
 ---
 
